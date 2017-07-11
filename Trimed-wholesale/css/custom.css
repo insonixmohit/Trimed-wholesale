@@ -363,13 +363,14 @@ font-family: 'open_sanslight'; color: #655b5b;}
 .text2cont p{text-align: left; padding-left: 30px}
 .header-topbar .container{padding-right:0px; padding-left: 0px;}
 .navMenu .container{padding-right:0px; padding-left: 0px;}
-.navMenu .col-md-3, .col-md-9{padding-right:0px; padding-left: 0px;}
+.navMenu .col-md-9{padding-right:0px;}
+.navMenu .col-md-3{padding-left: 0px;}
 .mainOuter-box .container{padding-right: 0px; padding-left: 0px;}
-.mainOuter-box .content-top .col-lg-3, .col-lg-5, .col-lg-4{padding-right: 6px; padding-left: 6px;}
+/*.mainOuter-box .content-top .col-lg-3, .col-lg-5, .col-lg-4{padding-right: 6px; padding-left: 6px;}*/
 .blog .container{padding-right: 0px; padding-left: 0px;}
 .followus  .container{padding-right: 0px; padding-left: 0px;}
 .footermain .col-md-12{padding-right: 0px; padding-left: 0px;}
-
+/*.followus .col-md-4:last-child{padding-right: 0px;}*/
 }
 
 @media (max-width: 767px) {
